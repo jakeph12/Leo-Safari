@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e5f071713609284b8b708aad5b2645c, type: 3}
+  m_Name: 3.Mountain Sanctuary
+  m_EditorClassIdentifier: 
+  m_spMainIco: {fileID: 121012491, guid: 904ffd9d052f3fe4ebc1794ab7e82e88, type: 3}
+  m_inKeyNeed: 2
+  m_strDescript: Towering peaks and peaceful valleys define this rugged landscape.
+    A haven for those seeking tranquility among snow-capped mountains and serene
+    alpine meadows.
+  m_scUpgrades:
+  - m_strName: Snow-Capped Peaks
+    m_strDescript: ' Enhance the mountains with snow-capped peaks, making the landscape
+      more picturesque.'
+    m_inCost: 300
+  - m_strName: Eagle's Nest
+    m_strDescript: Build an eagle's nest at the top of the highest peak for a striking
+      visual.
+    m_inCost: 400
+  - m_strName: Rocky Cliffs
+    m_strDescript: Create more rocky cliffs to diversify the mountain terrain.
+    m_inCost: 500
+  - m_strName: Mountain Lion Family
+    m_strDescript: Add a family of mountain lions prowling the rocky slopes.
+    m_inCost: 650

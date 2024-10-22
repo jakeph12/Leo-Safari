@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e5f071713609284b8b708aad5b2645c, type: 3}
+  m_Name: 1.Savanna Plains
+  m_EditorClassIdentifier: 
+  m_spMainIco: {fileID: 1559770529, guid: 904ffd9d052f3fe4ebc1794ab7e82e88, type: 3}
+  m_inKeyNeed: 0
+  m_strDescript: A vast expanse of golden grasslands where majestic wildlife roams
+    free under the warm sun. This sanctuary is perfect for those who love wide-open
+    spaces and vibrant ecosystems.
+  m_scUpgrades:
+  - m_strName: Watering Hole
+    m_strDescript: Add a large waterhole to attract more animals like zebras and
+      antelopes.
+    m_inCost: 200
+  - m_strName: Baobab Trees
+    m_strDescript: Plant majestic baobab trees to enhance the natural beauty of the
+      savanna.
+    m_inCost: 300
+  - m_strName: Grassland Expansion
+    m_strDescript: Expand the grasslands to allow more animals to roam freely.
+    m_inCost: 400
+  - m_strName: Elephant Herd
+    m_strDescript: Add a majestic herd of elephants to showcase the strength of the
+      savanna.
+    m_inCost: 500

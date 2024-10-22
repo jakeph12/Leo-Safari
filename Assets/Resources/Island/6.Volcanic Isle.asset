@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e5f071713609284b8b708aad5b2645c, type: 3}
+  m_Name: 6.Volcanic Isle
+  m_EditorClassIdentifier: 
+  m_spMainIco: {fileID: 800701573, guid: 904ffd9d052f3fe4ebc1794ab7e82e88, type: 3}
+  m_inKeyNeed: 5
+  m_strDescript: A dramatic sanctuary set on a remote volcanic island, where lava
+    flows meet the sea. Explore black sand beaches, fiery landscapes, and untamed
+    nature at its most powerful.
+  m_scUpgrades:
+  - m_strName: Lava Flow
+    m_strDescript: ' Add realistic, flowing lava rivers to the volcanic terrain.'
+    m_inCost: 350
+  - m_strName: Phoenix Nest
+    m_strDescript: Introduce mythical phoenixes that soar through the volcanic skies.
+    m_inCost: 500
+  - m_strName: Volcanic Plants
+    m_strDescript: Grow rare plants that thrive in volcanic soil, adding unique color
+      to the island.
+    m_inCost: 600
+  - m_strName: Erupting Crater
+    m_strDescript: Make the volcano more dramatic with regular eruptions and fiery
+      effects.
+    m_inCost: 700

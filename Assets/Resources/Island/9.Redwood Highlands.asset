@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e5f071713609284b8b708aad5b2645c, type: 3}
+  m_Name: 9.Redwood Highlands
+  m_EditorClassIdentifier: 
+  m_spMainIco: {fileID: 1834085922, guid: 904ffd9d052f3fe4ebc1794ab7e82e88, type: 3}
+  m_inKeyNeed: 8
+  m_strDescript: 'Majestic redwoods stretch toward the sky in this tranquil highland
+    sanctuary. Walk among giants and feel the timeless serenity of these ancient
+    forests. '
+  m_scUpgrades:
+  - m_strName: Giant Redwood Trees
+    m_strDescript: Plant towering redwood trees that create an impressive, majestic
+      landscape.
+    m_inCost: 400
+  - m_strName: Wolf Pack
+    m_strDescript: ' Introduce a pack of wolves roaming the forest, adding life to
+      the highlands.'
+    m_inCost: 500
+  - m_strName: Waterfall
+    m_strDescript: Create a dramatic waterfall flowing down the mountains into the
+      valley below.
+    m_inCost: 600
+  - m_strName: Bear Family
+    m_strDescript: Add a family of brown bears fishing in the rivers and roaming
+      the redwoods.
+    m_inCost: 700

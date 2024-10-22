@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e5f071713609284b8b708aad5b2645c, type: 3}
+  m_Name: 7.Coral Reef Paradise
+  m_EditorClassIdentifier: 
+  m_spMainIco: {fileID: 756833244, guid: 904ffd9d052f3fe4ebc1794ab7e82e88, type: 3}
+  m_inKeyNeed: 6
+  m_strDescript: 'Dive into an underwater wonderland where vibrant coral reefs are
+    home to colorful fish and marine life. A sanctuary for ocean lovers, full of
+    adventure and beauty beneath the waves. '
+  m_scUpgrades:
+  - m_strName: Coral Forest
+    m_strDescript: Build a stunning coral forest teeming with fish and marine life.
+    m_inCost: 300
+  - m_strName: Dolphin Pod
+    m_strDescript: Add a playful pod of dolphins to swim around the reef and leap
+      through the water.
+    m_inCost: 400
+  - m_strName: Sea Turtle Family
+    m_strDescript: Introduce a family of sea turtles gliding gracefully through the
+      waters.
+    m_inCost: 500
+  - m_strName: Underwater Caves
+    m_strDescript: Explore underwater caves filled with vibrant coral and hidden
+      treasures.
+    m_inCost: 650

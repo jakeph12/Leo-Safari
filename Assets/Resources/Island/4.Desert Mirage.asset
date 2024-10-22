@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e5f071713609284b8b708aad5b2645c, type: 3}
+  m_Name: 4.Desert Mirage
+  m_EditorClassIdentifier: 
+  m_spMainIco: {fileID: -1662681042, guid: 904ffd9d052f3fe4ebc1794ab7e82e88, type: 3}
+  m_inKeyNeed: 3
+  m_strDescript: 'The mystical beauty of endless dunes and ancient oases awaits you
+    in this desert sanctuary. Explore the breathtaking serenity of the shifting sands
+    beneath clear, starry skies. '
+  m_scUpgrades:
+  - m_strName: Palm Oasis
+    m_strDescript: Build a lush palm oasis to add life to the desert sands.
+    m_inCost: 250
+  - m_strName: Sand Dunes
+    m_strDescript: Shape the desert with tall sand dunes, perfect for wandering camels.
+    m_inCost: 350
+  - m_strName: Ancient Ruins
+    m_strDescript: Discover ancient ruins hidden beneath the sands, adding mystery
+      to the desert.
+    m_inCost: 450
+  - m_strName: Desert Foxes
+    m_strDescript: Introduce elusive desert foxes that thrive in the heat of the
+      dunes.
+    m_inCost: 550

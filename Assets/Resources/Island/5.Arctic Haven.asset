@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e5f071713609284b8b708aad5b2645c, type: 3}
+  m_Name: 5.Arctic Haven
+  m_EditorClassIdentifier: 
+  m_spMainIco: {fileID: -1131360483, guid: 904ffd9d052f3fe4ebc1794ab7e82e88, type: 3}
+  m_inKeyNeed: 4
+  m_strDescript: 'Step into a world of ice and snow where polar bears roam and the
+    Northern Lights illuminate the night. This icy wilderness is a peaceful refuge
+    in the heart of the Arctic. '
+  m_scUpgrades:
+  - m_strName: Glacier Expansion
+    m_strDescript: Expand the glaciers to create a more icy and dramatic environment.
+    m_inCost: 300
+  - m_strName: Penguin Colony
+    m_strDescript: Add a colony of penguins sliding on the ice and swimming in the
+      freezing waters.
+    m_inCost: 400
+  - m_strName: Ice Floes
+    m_strDescript: Create floating ice floes to give the arctic a dynamic, ever-changing
+      landscape.
+    m_inCost: 500
+  - m_strName: Polar Bear Family
+    m_strDescript: ' Introduce a family of polar bears hunting across the snowy tundra.'
+    m_inCost: 600

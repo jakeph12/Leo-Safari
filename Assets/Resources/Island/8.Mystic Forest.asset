@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e5f071713609284b8b708aad5b2645c, type: 3}
+  m_Name: 8.Mystic Forest
+  m_EditorClassIdentifier: 
+  m_spMainIco: {fileID: 194530059, guid: 904ffd9d052f3fe4ebc1794ab7e82e88, type: 3}
+  m_inKeyNeed: 7
+  m_strDescript: This enchanted forest is cloaked in mist and filled with ancient
+    trees, hidden pathways, and magical creatures. Perfect for those who seek the
+    mystery and magic of nature
+  m_scUpgrades:
+  - m_strName: Glowing Trees
+    m_strDescript: Plant mystical trees with leaves that glow in the dark, creating
+      an enchanted atmosphere.
+    m_inCost: 300
+  - m_strName: Unicorn Herd
+    m_strDescript: Introduce a magical herd of unicorns grazing under the glowing
+      trees.
+    m_inCost: 500
+  - m_strName: Enchanted Stream
+    m_strDescript: Add a sparkling enchanted stream that winds through the forest.
+    m_inCost: 600
+  - m_strName: Floating Rocks
+    m_strDescript: Make parts of the forest float above the ground, adding to its
+      magical appearance.
+    m_inCost: 700
